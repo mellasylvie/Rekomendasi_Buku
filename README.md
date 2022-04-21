@@ -65,3 +65,10 @@ File mengenai buku yang ditandai oleh pengguna "untuk dibaca". Diurutkan berdasa
 
 Pada proyek kali ini, file yang digunakan untuk pemodelan ada 2 file yaitu file **books.csv dan ratings.csv**. Pada model content based filtering, kolom yang digunakan yaitu **book_id, original_title, authors, original_publication_year**. Sedangkan pada model collaborative filtering kolom yang digunakan yaitu **user_id, book_id, authors, original_title**.
 Dataset ini bisa diunduh di Kaggle. Berikut linknya [Klik Disini].
+
+[//]: # (berikut merupakan daftar link yang digunakan)
+
+[Jurnal 1]: <https://journal.universitasbumigora.ac.id/index.php/matrik/article/view/617>
+[Jurnal 2]: <https://ejournal.akprind.ac.id/index.php/technoscientia/article/view/612>
+[Jurnal 3]: <https://www.jurnal.stmik-yadika.ac.id/index.php/spirit/article/view/52>
+[Klik Disini]: <https://www.kaggle.com/zygmunt/goodbooks-10k>
